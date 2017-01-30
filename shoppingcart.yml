@@ -1,5 +1,4 @@
 eureka:
   client:
     shouldFetchRegistry: false
-  instance:
-    port: 6000
+
